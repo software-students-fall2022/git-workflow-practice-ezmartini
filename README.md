@@ -12,3 +12,7 @@ The article discusses The Sims 2, which is, to me, the most detailed game in the
 ### Additional Comment: Pedro Baggio
 
 I really enjoyed reading this article about the challenges that the developers faced while developing The Sims 2. I also used to play games in this franchise, so reading about their development journey was really interesting to me. They explain how there were many bugs while developing the game. This is is not only limited to game development, all software engineers will eventually run into bugs, so fixing them is a part of every software engineer's job.
+
+### Additional Comment: Hillary Davis
+
+I never really got into the Sims craze, but all of my friends were heavily involved in the game and their characters. I think reading about the development of any popular game from childhood is always really interesting because as a child, I never really considered all the work that went into the makings of it, but instead just thought it existed. I think some of the most interesting parts of this article are learning about the jump from 2D to 3D environments as well as the intricacies that went into character development for the game as a whole.
